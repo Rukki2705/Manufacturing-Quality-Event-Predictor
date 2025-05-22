@@ -38,7 +38,7 @@ A complete machine learning pipeline to simulate, predict, and explain manufactu
 
 ### 1️⃣ Clone the Repository & Install Dependencies
 ```
-git clone https://github.com/Rukki2705/Manufacturing-Quality-Event-Predicto.git
+git clone https://github.com/Rukki2705/Manufacturing-Quality-Event-Predictor.git
 cd quality-event-predictor
 pip install -r requirements.txt
 ```
